@@ -1,0 +1,15 @@
+Format-Version:   2
+Library:          nand2tetris
+Synopsis:         A brief description of the project.
+Author:           The name(s) of the author(s) of the project.
+Copyright:        (C) YYYY, YOUR-COMPANY.  All rights reserved.
+Major-Version:    1
+Minor-Version:    0
+Files:            library
+	module
+	nand2tetris
+	foo
+Start-Function:   main
+Compilation-Mode: loose
+Target-Type:      executable
+
